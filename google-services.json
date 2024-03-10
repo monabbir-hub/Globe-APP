@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462632713744",
+    "project_id": "globe-map-416802",
+    "storage_bucket": "globe-map-416802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462632713744:android:b56811c054127553b49495",
+        "android_client_info": {
+          "package_name": "com.monabbir.globe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmZxuwohAp7sQTkLrrUS81uwEYEsRcBps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
